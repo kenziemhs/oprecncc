@@ -1,6 +1,10 @@
-# Laporan Penugasan Oprec NCC 2026 – Deployment Service `/health` dengan Docker di Azure VM
+# Laporan Penugasan Oprec NCC 2026 – Modul 1 Docker
 
-## Identitas Penugasan
+- Nama : Kenzie Maheswara
+
+- NRP : 5025241001
+
+## Penugasan 1 
 
 Penugasan ini bertujuan untuk membuat sebuah service sederhana yang memiliki endpoint `/health`, menjalankannya menggunakan Docker, lalu mendeploy service tersebut ke Virtual Machine (VPS) agar dapat diakses secara publik.
 
