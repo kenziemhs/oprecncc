@@ -362,7 +362,7 @@ Setelah VM aktif, langkah berikutnya adalah masuk ke server melalui SSH.
 3. Login ke server dengan perintah:
 
 ```bash
-ssh <username_kamu>@<ip_public_azure>
+ssh <username>@<ip_public_azure>
 ```
 
 4. Masukkan password saat diminta
@@ -370,7 +370,7 @@ ssh <username_kamu>@<ip_public_azure>
 Contoh:
 
 ```bash
-ssh azureuser@104.43.112.52
+ssh kenziemhs@104.43.112.52
 ```
 
 Jika login berhasil, berarti kita sudah masuk ke shell Ubuntu di Azure VM dan siap melakukan deployment aplikasi.
