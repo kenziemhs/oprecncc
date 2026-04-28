@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main',
+                git branch: 'pertemuan-2',
                     url: 'https://github.com/kenziemhs/demo-jenkins.git'
             }
         }
