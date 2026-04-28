@@ -6,4 +6,4 @@ halo namaku kenzie
 
 AAYYYYYOOOOOOOOOOOOO
 
-hello
+hello hai
