@@ -293,11 +293,11 @@ pipeline {
 
 ## Hasil Build Jenkins
 
-![alt text](image-1.png)
+<img width="1915" height="875" alt="image" src="https://github.com/user-attachments/assets/938fc24c-e94f-4daf-8b18-399a5c6a808e" />
 
-![alt text](image-2.png)
+<img width="1261" height="212" alt="image" src="https://github.com/user-attachments/assets/92e64eb7-808c-4c0b-9453-42459abc2c6b" />
 
-Pipeline telah berjalan sebanyak **16 kali** dengan mayoritas sukses:
+Pipeline telah berjalan sebanyak **17 kali** dengan mayoritas sukses:
 
 | Build | Status | Durasi |
 |---|---|---|
