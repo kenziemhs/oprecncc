@@ -6,7 +6,7 @@
 
 ---
 
-## Deskripsi Proyek
+## Deskripsi Proyek.
 
 Repository `demo-jenkins` adalah aplikasi Go sederhana yang mengekspos endpoint `/health` untuk mengecek status service. Proyek ini digunakan sebagai bahan praktik implementasi pipeline CI/CD menggunakan **Jenkins** dan **SonarQube**, mencakup tahap build, test, analisis kualitas kode, dan Quality Gate.
 
